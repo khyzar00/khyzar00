@@ -1,4 +1,4 @@
-# Hi there! 👋 I'm [Khizar Zulfiqar]
+# Hi there! 👋 I'm Khizar Zulfiqar
 
 🎓 Artificial Intelligence Student
 🌱 Currently learning Python & Machine Learning basics
