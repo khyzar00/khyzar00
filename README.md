@@ -1,16 +1,14 @@
-## Hi there 👋
+# Hi there! 👋 I'm [Khizar Zulfiqar]
 
-<!--
-**khyzar00/khyzar00** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Artificial Intelligence Student
+🌱 Currently learning Python & Machine Learning basics
+💡 Interested in AI, Deep Learning & Data Science
+📍 Pakistan
 
-Here are some ideas to get you started:
+## 🛠️ Learning Right Now
+- Python
+- Machine Learning basics
+- Git & GitHub
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📫 Connect with me
+- LinkedIn: [https://www.linkedin.com/in/khizar-zulfiqar-a3b6b8419/]
